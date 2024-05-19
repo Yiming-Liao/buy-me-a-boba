@@ -1,0 +1,7 @@
+# 檔案名稱 .gitignore
+
+# 忽略檔案
+.dockerignore
+.env
+Dockerfile
+fly.toml

@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72187c43.css",
+    "main.js": "/static/js/main.e3b91637.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/girl4.png": "/static/media/girl4.419d1d829a832d67aa4a.png",
+    "static/media/boy1.png": "/static/media/boy1.fa50adc6483220877a07.png",
+    "static/media/girl3.png": "/static/media/girl3.90c23dcff98be81ae44a.png",
+    "static/media/girl1.png": "/static/media/girl1.628b6bb48d4779df686b.png",
+    "static/media/girl2.png": "/static/media/girl2.5c30cbd96282df276cdd.png",
+    "static/media/boy2.png": "/static/media/boy2.47fdf7099f21aa289392.png",
+    "static/media/boy4.png": "/static/media/boy4.7a4219522400a1a158a3.png",
+    "static/media/boy3.png": "/static/media/boy3.e3578c9d00d96ab3bbfc.png",
+    "static/media/home.png": "/static/media/home.092294af00262f787abe.png",
+    "index.html": "/index.html",
+    "main.72187c43.css.map": "/static/css/main.72187c43.css.map",
+    "main.e3b91637.js.map": "/static/js/main.e3b91637.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72187c43.css",
+    "static/js/main.e3b91637.js"
+  ]
+}
