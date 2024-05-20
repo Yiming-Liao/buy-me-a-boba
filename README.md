@@ -1,3 +1,4 @@
 ### 🌐 https://buymeaboba.fly.dev/
 
-![buy-me-a-boba](https://github.com/Yiming-Liao/buy-me-a-boba/assets/160565489/2a779c10-524b-45f3-b4b8-f35455a9b22e)
+![1](https://github.com/Yiming-Liao/buy-me-a-boba/assets/160565489/e810858a-7a9a-4b76-befe-19fc33d3862e)
+
