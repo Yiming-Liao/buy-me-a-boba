@@ -2,10 +2,10 @@
 
 ![1](https://github.com/Yiming-Liao/buy-me-a-boba/assets/160565489/027a5b5b-15a2-4908-9ac6-7e40eefd2406)
 
-**Buy me a Boba — 為創意加油，來杯珍珠奶茶吧！**
+# **Buy me a Boba — 為創意加油，來杯珍珠奶茶吧！**
 受國外 Buy me a coffee 啟發，
 
-我決定練習撰寫一個台灣版本的_ Buy me a boba : )_
+我決定練習撰寫一個台灣版本的 Buy me a boba : )
 
 在這個專案中我分成前端與後端兩個部分來建置，最後再把前端打包，與後端一起架設到伺服器上。
 
